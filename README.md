@@ -1,6 +1,4 @@
 ### Hello Welcome to my github repo 👋
-**this is bold**
-
 
 
 <!--
